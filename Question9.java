@@ -9,7 +9,6 @@ public class Question9
             System.out.println(sum);
             break;
             case 'b':
-            
             double s=0;
             for(int i=2;i<=20;i=i+3)
              {
